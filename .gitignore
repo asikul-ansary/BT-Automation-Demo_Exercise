@@ -1,0 +1,6 @@
+node_modules
+.env
+logs
+allure-report
+allure-results
+package-lock.json
